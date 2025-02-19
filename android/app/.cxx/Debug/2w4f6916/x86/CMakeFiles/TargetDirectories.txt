@@ -1,0 +1,2 @@
+C:/Users/rikva/projects/flutter/efteling-app/android/app/.cxx/Debug/2w4f6916/x86/CMakeFiles/edit_cache.dir
+C:/Users/rikva/projects/flutter/efteling-app/android/app/.cxx/Debug/2w4f6916/x86/CMakeFiles/rebuild_cache.dir
