@@ -20,7 +20,7 @@ class GijsPage extends StatelessWidget {
         ),
         child: Column(
           crossAxisAlignment:
-              CrossAxisAlignment.start, // Aligns text to the left
+              CrossAxisAlignment.start, 
           children: [
             Center(
               child: Image.asset(
